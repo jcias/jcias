@@ -1,4 +1,6 @@
 ### Hi there 👋
+I'm currently checking the Github Pages: what it is, how to use it, is it what I'm looking for ??
+
 
 <!--
 **jcias/jcias** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
